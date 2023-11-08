@@ -1,0 +1,292 @@
+.title{
+    display: flex;
+
+}
+#logo{
+    margin: 8px;
+    color: #00b39b;
+}
+
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+a{
+    margin-right: 10px;
+    margin-left: 10px;
+    text-decoration: none;
+    color: #ababab;
+    font-size: 25px;
+
+   
+}
+#groupe,#about{
+    color: #00b39b;
+
+}
+
+#logo-photo{
+   margin-left: 48%;
+   margin-top: 50px;
+}
+
+
+    #lead {
+        text-align: center;
+        color: #00b39b;
+        margin: 1em 0;
+}
+
+#cp{
+    display:flex;
+    justify-content: stretch;
+}
+#p1,#p2{
+    
+    line-height: 1.75;
+    font-weight: 40;
+    font-family: Roboto,Arial,sans-serif;
+    color: #747474;
+
+
+}
+
+#p1{
+    width:40%;
+    height:13%;
+    margin-left: 16%;
+   padding-left: 55px;
+
+
+}
+#p2{
+    width:40%;
+    height:13%;
+   margin-right: 16%;
+  padding-left: 55px;
+}
+#boxes{
+ display: flex;
+ justify-content: space-evenly;
+ font-size: 20px;
+
+}
+.box{
+    width:18%;
+    height:23%;
+    color: white;
+    border-radius: 10px;
+    padding: 40px 20px 80px 20px;
+   
+}
+.green,#greenselect{
+
+    background: #00ccb1;
+    margin-left: 13%;
+    
+}
+.blue,#blueselect{
+background-color:#3d83df ;
+}
+
+.black,#blackselect1,#blackselect2{ 
+    background: #1b2734;
+    margin-right: 13%;
+    display: block;
+    padding-bottom: 20px;
+}
+select{
+    text-decoration: none;
+    
+    color: white;
+    border: none;
+    font-size: 20px;
+}
+
+
+#underboxes{
+display: flex;
+justify-content: space-around;
+margin-top: 40px;
+
+
+}
+
+
+
+#global{
+    width:15%;
+    height:20%;
+    color: #00b39b;
+    font-size:1.625em;
+    margin-bottom: 200px;
+    margin-left: 180px;
+    padding-left: 20px;
+   
+}
+
+
+#logos{
+    width: 45%;
+    height:10%;
+    display: block;
+    margin-right: 180px;
+   
+    
+
+}
+
+#ll1,#ll2,#ll3{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: -25px;
+   
+
+}
+#ll3{
+    margin-right: 80%;
+  margin-bottom: 20%;
+    
+}
+.td{
+
+    display: flex;
+    padding-right: 15px;
+}
+
+
+
+
+
+   
+    
+
+
+#green-paart{
+    
+    background: #e5faf8;
+    color:#00b39b ;
+
+display: flex;
+justify-content: space-around;
+
+}
+#small{
+    width: 400px;
+    height: 280px;
+}
+
+#big{
+    display: flex;
+    align-content: space-around;
+}
+#leader,#patient,#appointment,#activeDoctors{
+    background-color: white;
+    width: 200px;
+    height: 280px;
+    padding:20px;
+    margin: 40px;
+}
+#top{
+    margin-top: 30px;
+}
+
+#text{
+    color: #00b39b ;
+    text-align: center;
+    padding: 60px;
+}
+
+#city{
+    
+}
+#l1,#l2,#l3{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-bottom: 15%;
+   
+    
+}
+
+.c1{
+    margin-right: 15px;
+
+   
+}
+.c3{
+    margin-left:10px ;
+ 
+}
+button{
+    border-radius: 3px;
+    background: #3d83df;
+    color: white;
+    margin-left: 90px;
+    padding: 6px 10px;
+    border: 1px;
+}
+#imgl4{
+    width: 320px;
+    height:330px;
+
+}
+#l4{
+    margin-left: 300px;
+}
+
+.under-img{
+    display: flex;
+   align-items: center;
+}
+
+.pic{
+    font-size: 22px;
+    border-radius: 10px;
+    padding:5px ;
+    
+    
+  
+   
+}
+
+.pic img{
+    border-radius: 10px 10px 0px 0px;
+
+}
+
+
+
+#end{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 180px;
+    font-family:Roboto,Arial,sans-serif;
+    font-weight: 100;
+    color: #ababab;
+   
+}
+
+
+#btn-end{
+    margin-right: 150px;
+}
+
+#end-end a{
+    font-size: 15px;
+    text-align: center;
+    color: blue;
+    
+}
+
+#end-end{
+    color: #ababab;
+    margin-bottom: -100px;
+ 
+
+}
+
+
